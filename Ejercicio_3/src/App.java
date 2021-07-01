@@ -44,11 +44,11 @@ public class App {
 
     }*/
 
-    public static void main(String[] args) throws Exception {
+    /*public static void main(String[] args) throws Exception {
         var sc = new Scanner(System.in);
         System.out.println("Introduce un número entero: ");
         var numero = sc.nextInt();
-    }
+    }*/
 
 
 }
